@@ -13,5 +13,9 @@
     "eslint": "^7.29.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.23.4"
+  },
+  "dependencies": {
+    "chalks": "^0.1.5",
+    "commander": "^8.0.0"
   }
 }
